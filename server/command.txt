@@ -9,3 +9,6 @@ npm i mongoose =>> mongo db k feature milenge
 
  npm i body-parser ==>> for response (post api k liye)
 parser use kiya kyuki url mai log space dalte hai jo url valid nhi rehta fir
+
+
+npm install concurrently --save // use to run backend frontend same time from client folder
